@@ -1,4 +1,4 @@
-# GermanCarsPriceEfficiencyPythonTableau
+# German Cars Price and Efficiency
 ## Objective
 The objective of this analysis is to examine the relationship between fuel consumption and various factors, including fuel type, horsepower (HP), transmission, mileage, manufacturing year, and price, across different car brands and models. This study aims to provide insights into how these attributes influence fuel efficiency in the German automotive market.
 
