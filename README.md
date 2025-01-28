@@ -38,5 +38,8 @@ This dataset consists of 500 records detailing key attributes of cars in the Ger
 
 Download the data set.
 
-Tableau 
-Click here for the Stakeholder Sales Analysis Presentation.
+## Tableau Dashboard
+[Click here](https://public.tableau.com/views/GermanCarsPriceandEfficiencyCorrelations/GermanCarsPriceandEfficiency?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) To visit the Tableau Visualizations.
+
+[Germany Car Analysis Map](https://drive.google.com/file/d/18tfSMiUdhmO_R_BNaQ6QxJSaf7cEB9bp/view?usp=drive_link)
+
