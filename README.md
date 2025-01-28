@@ -1,7 +1,8 @@
 # GermanCarsPriceEfficiencyPythonTableau
 ## Objective
 The objective of this analysis is to examine the relationship between fuel consumption and various factors, including fuel type, horsepower (HP), transmission, mileage, manufacturing year, and price, across different car brands and models. This study aims to provide insights into how these attributes influence fuel efficiency in the German automotive market.
-Descriptions
+
+## Descriptions
 
 Brand: BMW, Mercedes, Audi, Volkswagen, Porsche, and Opel.
 
@@ -22,12 +23,15 @@ Transmission: Manual or Automatic transmission.
 Price (€): The price of the vehicle in euros.
 
 City: Berlin, Munich, Hamburg, Cologne, and Frankfurt.
-Key Questions
+
+## Key Questions
 I aim to derive meaningful insights from data on the German automotive market, with a particular focus on answering the following key questions:
+
 ● Do certain brands and models exhibit higher fuel consumption?
 ● How do fuel type, horsepower, and transmission influence fuel consumption?
 ● To what extent do fuel consumption, horsepower, and mileage impact vehicle pricing?
-Data Set
+
+## Data Set
 This dataset consists of 500 records detailing key attributes of cars in the German automotive market. It is structured to represent common vehicle characteristics in Germany, offering a valuable resource for analyzing pricing trends, fuel efficiency, and other essential aspects of the market.
 
 Download the data set.
