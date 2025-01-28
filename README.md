@@ -34,7 +34,7 @@ I aim to derive meaningful insights from data on the German automotive market, w
 ● To what extent do fuel consumption, horsepower, and mileage impact vehicle pricing?
 
 ## Data Set
-This dataset consists of 500 records detailing key attributes of cars in the German automotive market. It is structured to represent common vehicle characteristics in Germany, offering a valuable resource for analyzing pricing trends, fuel efficiency, and other essential aspects of the market.
+This dataset derived from [Kaggle](https://www.kaggle.com/datasets/heidarmirhajisadati/german-vehicle-price-and-efficiency-dataset) consists of 500 records detailing key attributes of cars in the German automotive market. It is structured to represent common vehicle characteristics in Germany, offering a valuable resource for analyzing pricing trends, fuel efficiency, and other essential aspects of the market.
  
 [Download](germany_auto_industry_dataset.csv) the dataset.
 
