@@ -36,8 +36,8 @@ I aim to derive meaningful insights from data on the German automotive market, w
 ## Data Set
 This dataset consists of 500 records detailing key attributes of cars in the German automotive market. It is structured to represent common vehicle characteristics in Germany, offering a valuable resource for analyzing pricing trends, fuel efficiency, and other essential aspects of the market.
 
-Download the data set.
-
+Download the dataset.
+[Download](germany_auto_industry_dataset.csv) 
 ## Tableau Dashboard
 [Click here](https://public.tableau.com/views/GermanCarsPriceandEfficiencyCorrelations/GermanCarsPriceandEfficiency?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) To visit the Tableau Visualizations.
 
