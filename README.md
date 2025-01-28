@@ -28,7 +28,9 @@ City: Berlin, Munich, Hamburg, Cologne, and Frankfurt.
 I aim to derive meaningful insights from data on the German automotive market, with a particular focus on answering the following key questions:
 
 ● Do certain brands and models exhibit higher fuel consumption?
+
 ● How do fuel type, horsepower, and transmission influence fuel consumption?
+
 ● To what extent do fuel consumption, horsepower, and mileage impact vehicle pricing?
 
 ## Data Set
