@@ -41,4 +41,7 @@ This dataset, derived from [Kaggle](https://www.kaggle.com/datasets/heidarmirhaj
 ## Tableau Dashboard
 [Click here](https://public.tableau.com/views/GermanCarsPriceandEfficiencyCorrelations/GermanCarsPriceandEfficiency?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) To visit the Tableau Visualizations.
 
+## Portfolio Presentation
+Click [here](https://drive.google.com/file/d/1fDsEiAiiqeFrXyQWQNRri8zgKPWPs-SE/view?usp=drive_link)
+
 
